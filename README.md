@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="./nomsa-github-banner.png" alt="Nomsa Malaba — Software & Data" width="100%">
+</p>
+
 <div align="center">
 
 # Hi, I'm Nomsa 

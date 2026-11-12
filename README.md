@@ -30,7 +30,7 @@ Based in Johannesburg, South Africa · BSc Applied Statistics & Psychology, Univ
 
 ## A little about me
 
-I'm a software developer with a background in **Applied Statistics and Psychology** and additional Computer Science studies. At ZTQ Solutions, I work on Python/Django business applications, database-backed features, APIs, access controls, testing, and reporting.
+I'm a software developer with a background in **Applied Statistics and Psychology** and additional Computer Science studies. I currently work on Python/Django business applications, database-backed features, APIs, access controls, testing, and reporting.
 
 Outside of work, I build independent projects to sharpen my engineering skills and explore how data can solve real problems.
 

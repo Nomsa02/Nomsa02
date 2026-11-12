@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Nomsa 👋
+# Hi, I'm Nomsa 
 
 ### Building software. *Making data useful.*
 
